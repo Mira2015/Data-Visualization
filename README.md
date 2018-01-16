@@ -2,7 +2,7 @@
 My first data visualization. 
 
 Data source : https://www.kaggle.com/starbucks/store-locations/data
-
+https://preinventedwheel.com/easy-matplotlib-bar-chart/
 This data visualization will provide the following questions' answer. 
 
 <li>1.Can you count something interesting?
