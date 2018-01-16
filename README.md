@@ -6,7 +6,7 @@ This data visualization will provide the following questions' answers.
 
 1.Can you count something interesting?
 
-2.Can you find some trends (high, low, increase, decrease, anomalies)?
+2.trends?
 
 3.Can you make a bar plot or a histogram?
 
