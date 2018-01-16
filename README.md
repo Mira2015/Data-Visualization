@@ -1,8 +1,7 @@
 # Data-Visualization
-My first data visualization. 
 
 Data source : https://www.kaggle.com/starbucks/store-locations/data
-https://preinventedwheel.com/easy-matplotlib-bar-chart/
+              https://preinventedwheel.com/easy-matplotlib-bar-chart/
 This data visualization will provide the following questions' answers. 
 
 1.Can you count something interesting?
