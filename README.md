@@ -6,7 +6,7 @@ Data source : https://www.kaggle.com/starbucks/store-locations/data
 This data visualization will provide the following questions' answer. 
 
 <li>1.Can you count something interesting?
-#2.Can you find some trends (high, low, increase, decrease, anomalies)?
+<li>2.Can you find some trends (high, low, increase, decrease, anomalies)?
 #3.Can you make a bar plot or a histogram?
 4.Can you compare two related quantities?
 5.Can you make a scatterplot?
