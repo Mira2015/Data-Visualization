@@ -1,5 +1,5 @@
 # Data-Visualization
-
+![alt text](https://i.investopedia.com/content/daily_blog/starbucks_to_open_fi/shutterstock_starbucks_sign.jpg)
 Data source : https://www.kaggle.com/starbucks/store-locations/data
               https://preinventedwheel.com/easy-matplotlib-bar-chart/
 This data visualization will provide the following questions' answers. 
